@@ -1,0 +1,7 @@
+C:\Users\Gutemberg Silva\source\repos\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Gutemberg Silva\source\repos\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Gutemberg Silva\source\repos\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Gutemberg Silva\source\repos\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Gutemberg Silva\source\repos\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Gutemberg Silva\source\repos\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Gutemberg Silva\source\repos\Calculadora\obj\Debug\Calculadora.pdb
