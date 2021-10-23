@@ -13,7 +13,7 @@ namespace Soma
             Console.WriteLine("\n\n============= Calculadora ==============");
 
             Console.Write("Insiara  um numero: ");
-            int numero1 = int.Parse(Console.ReadLine());
+            int numero1 = int.Parse(Console.ReadLine());// int.Parse é usado para converter uma representação de string de um número em um inteiro
 
             Console.Write("Escolha um operador: |/| Divisão, |*| Multiplicação, |+| Soma, |-| Subtração:  ");
             string operador = Console.ReadLine();
